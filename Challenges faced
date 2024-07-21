@@ -1,0 +1,10 @@
+Challenges Faced
+Technical Hurdles:
+JavaFx Integration: 
+The original idea was to use JavaFX to create a more complex graphical user interface (GUI) with improved visual components and interactive features. 
+IDE Compatibility Issues:
+Regrettably, our Integrated Development Environment (IDE) ran into problems with JavaFX libraries during the development stage, which led to unforeseen mistakes and complicated the implementation process.
+Fallback to Command Line Interface (CLI):
+We strategically chose to utilize conventional input/output operations for user interaction in a command-line interface (CLI) method in order to overcome this difficulty and guarantee project continuance. 
+Impact on User Experience:
+Although the CLI solution successfully fulfilled the project's functional needs, it presented drawbacks in terms of user friendliness and aesthetic appeal when compared to the JavaFX-based GUI that was initially intended. 
